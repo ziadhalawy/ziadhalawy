@@ -1,6 +1,3 @@
-- Hi, I’m @ziadhalawy
-- I’m interested in programming
-- I’m currently learning c#
 -  How to reach me z.halawy@gmail.com 
 
 <!---
