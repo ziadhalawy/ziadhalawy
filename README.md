@@ -1,4 +1,3 @@
--  How to reach me z.halawy@gmail.com 
 
 <!---
 ziadhalawy/ziadhalawy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
